@@ -1,1 +1,2 @@
-# D-viz_Kuru
+# Doviz_Kuru
+Gunluk doviz kurunu ceker.
